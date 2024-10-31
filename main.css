@@ -1,0 +1,75 @@
+*{
+   margin: 0 0 0 0;
+}
+.ourproduct{
+   width: 68%;
+   height: 100%;
+    margin: auto;
+}
+img{
+    width: 95%;
+    margin: 5px 5px 0px 5px;
+}
+h1 {
+    margin: 1px 0 5px 5px; 
+}
+h2 {
+    margin-left: 5px;
+}
+.product p{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.salaryp{
+    color: green;
+
+}
+.salary2 p{
+    color:red
+}
+.salary1{
+    float: left;
+    margin-top: 10px;
+}
+.line{
+    text-decoration: line-through;
+}
+ .salary2{
+    margin-top: 20px;
+    
+    margin-left: 50px;
+}
+.bat{
+    margin-top: 10px; 
+    margin-left: 5px;
+    padding: 2px;
+
+}
+.addcart {
+    background-color:dodgerblue;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    border:dodgerblue solid 2px;
+    
+}
+.iconcart{
+    color: white;
+}
+.iconheart{
+    color:dodgerblue;
+    width: 30px;
+    padding: 10px 0px 10px 0px
+}
+.heart{
+    background-color: white;
+    border:dodgerblue solid 2px ;
+}
+.card{
+    width:24%;
+    border:solid 1px gray;
+    margin: 0px 2px 2px 2px;
+    float: left;
+
+    
+}
